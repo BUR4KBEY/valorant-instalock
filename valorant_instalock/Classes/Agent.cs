@@ -10,6 +10,7 @@ namespace valorant_instalock.Classes
 
         public static Dictionary<string, Coordinate> agentCoordinates = new Dictionary<string, Coordinate>
         {
+            { "clove", new Coordinate(1296, 931) },
             { "astra", new Coordinate(545, 927) },
             { "breach", new Coordinate(629, 932) },
             { "brimstone", new Coordinate(714, 934) },
